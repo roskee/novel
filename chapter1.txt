@@ -5,3 +5,5 @@ this is paragraph one in chapter one
 this is paragraph two in chapter one
 
 this is paragraph three in chapter one
+
+this is paragraph four in chapter one
